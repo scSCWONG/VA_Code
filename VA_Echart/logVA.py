@@ -1,3 +1,4 @@
+#this code was written by SC Wong, 12 Sept 2023, for the purpose of testing visual acuity using the tumbling E chart
 import psychopy.visual
 import psychopy.event
 import math,random,os
